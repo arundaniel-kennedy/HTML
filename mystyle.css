@@ -1,0 +1,15 @@
+body{
+  background-image: url("/Abstract-Design-Wallpaper-56.jpg");
+  background-color:Cornsilk;
+  margin: 10px 20px;
+  font-family: Arial, sans-serif;
+}
+
+h2{
+ color: chocolate;
+}
+
+marquee{
+  background-color: DarkGoldenRod;
+  color: red;
+}
